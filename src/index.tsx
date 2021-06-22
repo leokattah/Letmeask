@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import './services/firebase'
 
+// O método render é executado somente uma vez e ele é responsável por renderizar algum elemento dentror do HTML. Neste caso, o elemento ID=root
+// O arquivo .App é importado acima e também é uma função. Ela está localizada no arquivo App.tsx
 ReactDOM.render(
   <React.StrictMode>
     <App />
@@ -11,7 +12,3 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();

@@ -1,25 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-
+// HTML dentro do JS é chamado de JSX (javascript XML). Como esta aplicação está sendo feita em typescript, o arquivo recebeu a extensão TSX
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+<h1>Hello World</h1>
   );
 }
 
