@@ -2,6 +2,8 @@
 </p>
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/img/capa.png" width="500px"/>
+	![capa](https://user-images.githubusercontent.com/64365302/122851844-10236c00-d2e6-11eb-94b6-43be77a92dac.png) 
+
 </h1>
 
 <h4 align="center"> 
