@@ -2,8 +2,6 @@
 </p>
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/img/capa.png" width="500px"/>
-	![capa](https://user-images.githubusercontent.com/64365302/122851844-10236c00-d2e6-11eb-94b6-43be77a92dac.png) 
-
 </h1>
 
 <h4 align="center"> 
@@ -41,14 +39,14 @@ O NLW é uma experiência online com muito conteúdo prático, desafios e hacks 
 O layout da aplicação está disponível no Figma:
 
 <a href="https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask">
-  <img alt="Made by marconwillian" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+  <img alt="Made by leonardo Kattah" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/assets/pagina-inicial.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/img/pagina-inicial.png" width="400px">
 
 </p>
 
@@ -116,13 +114,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-<a href="https://marconwillian.dev/">
- <img style="border-radius: 50%;" src="https://github.com/MarconWillian.png" width="100px;" alt=""/>
+<a href="https://devleokattah.herokuapp.com/">
+ <img style="border-radius: 50%;" src="https://github.com/leokattah" width="100px;" alt=""/>
  <br />
- <sub><b>Marcon Willian</b></sub></a> <a href="https://marconwillian.dev/" title="Marcon Willian">🚀</a>
+ <sub><b>Leonardo Kattah</b></sub></a> <a href="https://devleokattah.herokuapp.com/" title="Leonardo Kattah">🚀</a>
  <br />
-
-[![Twitter Badge](https://img.shields.io/badge/-@marconwillian-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marconwillian)](https://twitter.com/marconwillian) [![Linkedin Badge](https://img.shields.io/badge/-Marcon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marconwillian/)](https://www.linkedin.com/in/marconwillian/) 
 
 ---
 
@@ -130,4 +126,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Marcon Willian 👋🏽 [Entre em contato!](https://www.linkedin.com/in/marconwillian/)
+Feito com ❤️ por Leonardo Kattah 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardo-kattah-55059a20/)
