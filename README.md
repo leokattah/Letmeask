@@ -87,13 +87,7 @@ $ yarn start
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/))
-
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
-
--  **[Firebase real database](https://firebase.google.com/)
-
-
+#### **Website**  ([React](https://reactjs.org/)  +  [TypeScript](https://www.typescriptlang.org/)) + [React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom) +  [Firebase real database](https://firebase.google.com/)
 
 ## Autor
 
