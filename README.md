@@ -1,7 +1,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./src/assets/imgagem/capa.png" width="500px"/>
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/images/capa.png" width="500px"/>
 </h1>
 
 <h4 align="center"> 
@@ -46,7 +46,7 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/img/pagina-inicial.png" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/images/pagina-inicial.png" width="400px">
 
 </p>
 
