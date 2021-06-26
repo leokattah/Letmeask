@@ -1,7 +1,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/img/capa.png" width="500px"/>
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/imgagem/capa.png" width="500px"/>
 </h1>
 
 <h4 align="center"> 
@@ -64,7 +64,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:MarconWillian/letmeask.git
+$ gh repo clone leokattah/Letmeask
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd letmeask
@@ -91,31 +91,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 
-> Veja o arquivo  [package.json](./package.json)
-
-#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
-
--   Protótipo:  **[Figma](https://www.figma.com/)**  →  **[Protótipo (Letmeask)](https://www.figma.com/file/u0BQK8rCf2KgzcukdRRCWh/Letmeask)**
--   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
--   Markdown:  **[StackEdit](https://stackedit.io/)**,  **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
--   Commit Conventional:  **[Commitlint](https://github.com/conventional-changelog/commitlint)**
+-  **[Firebase real database](https://firebase.google.com/)
 
 
----
 
-## 💪 Como contribuir para o projeto
-
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
-
----
-
-## 🦸 Autor
+## Autor
 
 <a href="https://devleokattah.herokuapp.com/">
- <img style="border-radius: 50%;" src="https://github.com/leokattah" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64365302?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Leonardo Kattah</b></sub></a> <a href="https://devleokattah.herokuapp.com/" title="Leonardo Kattah">🚀</a>
  <br />
