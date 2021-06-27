@@ -81,6 +81,9 @@ $ yarn start
 
 ```
 
+ Quer ver a aplicação no seu navegador? https://letmeask-lk.web.app/
+
+
 ---
 
 ## 🛠 Tecnologias
@@ -97,7 +100,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Leonardo Kattah</b></sub></a> <a href="https://devleokattah.herokuapp.com/" title="Leonardo Kattah">🚀</a>
  <br />
  
- Quer ver a aplicação no seu navegador? https://letmeask-lk.web.app/
 
 ---
 
