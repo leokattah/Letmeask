@@ -95,7 +95,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Autor
 
 	
-[Website com o portfólio]("https://devleokattah.herokuapp.com/")
+[Website com o portfólio](https://devleokattah.herokuapp.com/)
 
  
 ---
