@@ -97,7 +97,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <a href="https://devleokattah.herokuapp.com/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64365302?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Leonardo Kattah</b></sub></a> <a href="https://devleokattah.herokuapp.com/" title="Leonardo Kattah">🚀</a>
+ <sub><b>Leonardo Kattah</b></sub></a> <a href="https://devleokattah.herokuapp.com/" title="Website com o portfólio">🚀</a>
  <br />
  
 
